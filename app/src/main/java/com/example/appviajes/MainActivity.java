@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //prueva de cambio
         //prueva de rama
         //herberth
+        //comentario prueba 2
         setContentView(R.layout.activity_main);
     }
 }
