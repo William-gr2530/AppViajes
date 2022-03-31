@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //prueva de cambio
         //prueva de rama
-        //prueba de Carlos 123
+        //prueba con Rama de 123
         setContentView(R.layout.activity_main);
     }
 }
