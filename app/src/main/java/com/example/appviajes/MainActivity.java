@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //prueva de rama
         //prueba de Carlos 123
         //Prueba de comentario 2
-
+        //prueba de Jared
         setContentView(R.layout.activity_main);
     }
 }
